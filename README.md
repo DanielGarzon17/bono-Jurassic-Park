@@ -1,7 +1,4 @@
 # bono-Jurassic-Park
-
-# Página Web de Jurassic Park
-
 Este proyecto es una página web sencilla para **Jurassic Park**, creada usando HTML, CSS y Bootstrap.
 
 ## Uso
